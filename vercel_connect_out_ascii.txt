@@ -1,0 +1,20 @@
+npx.cmd : Retrieving 
+project???
+At line:1 char:1
++ npx.cmd vercel git connect 
+--token vcp_61rbnugpI8zZblsl8
+uiQopOPKb3dJY ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~
+    + CategoryInfo           
+   : NotSpecified: (Retriev  
+  ing project???:String) [   
+ ], RemoteException
+    + FullyQualifiedErrorId  
+   : NativeCommandError
+ 
+> Connecting GitHub 
+repository: https://github.co
+m/YoavHurvitz/Ofekmeir
+> Connected
