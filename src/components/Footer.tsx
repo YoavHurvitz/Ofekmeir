@@ -41,15 +41,15 @@ export default function Footer() {
             className="text-right flex flex-col gap-4"
           >
             <div className="flex items-center justify-end gap-3 text-white/80 hover:text-white transition-colors">
-              <span className="text-lg" dir="ltr">052-3402559</span>
+              <span className="text-lg" dir="ltr">03-381-8383</span>
               <Phone className="w-5 h-5 text-accent" />
             </div>
-            <a href="mailto:shauliyacobson@gmail.com" className="flex items-center justify-end gap-3 text-white/80 hover:text-white transition-colors">
-              <span className="text-lg">shauliyacobson@gmail.com</span>
+            <a href="mailto:office@ofekmeir.co.il" className="flex items-center justify-end gap-3 text-white/80 hover:text-white transition-colors">
+              <span className="text-lg">office@ofekmeir.co.il</span>
               <Mail className="w-5 h-5 text-accent" />
             </a>
             <div className="flex items-center justify-end gap-3 text-white/80 hover:text-white transition-colors">
-              <span className="text-lg">החשמונאים 96, תל אביב</span>
+              <span className="text-lg">החשמונאים 94, תל אביב</span>
               <MapPin className="w-5 h-5 text-accent" />
             </div>
           </motion.div>
